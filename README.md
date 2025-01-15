@@ -1,6 +1,6 @@
-# klinik_app
+# UFC_APP
 
-klinik_app
+UFC_APP
 
 ## Getting Started
 
